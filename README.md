@@ -40,7 +40,6 @@
 <img src="mockups/hack2.png">
 </div>
   
-  <br>
   <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Instructions***
 <p align="left">
   
@@ -49,7 +48,6 @@
   ✔ For running the website `cd website` . <br>
   ✔ Installation of node modules to be done by `npm` or `yarn` <br>
   ✔ Run the website by `npm start` or `yarn start` <br>
-  <br>
   
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools We used***
 <p align="left">
