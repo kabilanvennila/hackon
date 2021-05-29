@@ -6,11 +6,11 @@ import Products from './pages/Products/Products';
 import Graph from './pages/Graph/Graph';
 import { Navbar, Footer } from './components';
 // import { Candy } from './components'
-import { useEffect ,useRef} from 'react';
+import { useEffect , useRef } from 'react';
+import { Button } from './globalStyles';
+import './App.css';
 import alanBtn from '@alan-ai/alan-sdk-web';
 // import onUserEvent from '@alan-ai/alan-sdk-web';
-
-
 
 function App() {
 
@@ -32,12 +32,20 @@ function App() {
         <GlobalStyle />
         {/* <Navbar /> */}
         <div style={{fontSize:'2rem',backgroundColor:'#101522',color:'white',textAlign:'center',paddingTop:'30px' }}>
-          <h2>Candy</h2>
+          <h2>Candy Bot</h2>
         </div>
         <Home />
+        {/* <Button className="main-btn">Our API</Button> */}
         {/* <Candy /> */}
         <Products />
         <Graph />
+        <div className="button-container">
+          <Button className="main-btn">
+                <a href="https://nenoc.pythonanywhere.com/api/Apis/" target="_blank">
+            Our API
+          </a>
+          </Button>
+        </div>
         <Footer />
       </Router>
   );

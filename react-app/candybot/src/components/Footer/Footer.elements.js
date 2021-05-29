@@ -122,11 +122,13 @@ export const SocialMedia = styled.section`
 
 export const SocialMediaWrap = styled.div`
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   width: 90%;
   max-width: 1000px;
   margin: 40px auto 0 auto;
+  margin-right:60px;
+  font-weight:bolder;
 
   @media screen and (max-width: 820px) {
     flex-direction: column;
@@ -138,7 +140,8 @@ export const SocialLogo = styled(Link)`
   justify-self: start;
   cursor: pointer;
   text-decoration: none;
-  font-size: 2rem;
+  font-size: 1.5em;
+  font-size:bold;
   display: flex;
   align-items: center;
   margin-bottom: 16px;
@@ -151,6 +154,8 @@ export const SocialLogo = styled(Link)`
 export const WebsiteRights = styled.small`
   color: #fff;
   margin-bottom: 16px;
+  font-size:1rem;
+  font-weight:500;
 `;
 
 export const SocialIcons = styled.div`

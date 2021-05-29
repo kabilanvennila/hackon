@@ -1,8 +1,43 @@
 
 body{
-  background-color: #1a1a1c;
+  background-color: #101522;
 }
 
+.button-container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+a{
+  color:white;
+  text-decoration: none;
+}
+
+.main-btn{
+  text-align: center;
+  /* margin-left:190px;
+  margin-bottom:100px; */
+  margin-top:40px;
+  margin-right:50px;
+  white-space: nowrap;
+  display: inline-block;
+  border-radius: 2px;
+  border: none;
+  height: 50px;
+  width:15%;
+  padding-left:30px;
+  padding-right:30px;
+  color: white;
+  transition: .2s ease;
+  background-color: #101522;
+  font-weight: bold;
+}
+
+.main-btn:hover{
+  cursor:pointer;
+  transition:.2s
+}
 
 /* .App {
   -webkit-box-sizing: border-box;
@@ -14,12 +49,12 @@ body{
 } */
 
 
- /* @media only screen and (max-width: 800px) {
+  @media only screen and (max-width: 800px) {
   
-  body{
-    display:flex;
-    align-items: center;
-    justify-content: center;
-  }
+    .main-btn
+    {
+      width:100%;
+      margin-left:50px;
+    }
 
-}  */
+}  

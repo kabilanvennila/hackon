@@ -4,8 +4,8 @@ export const homeObjOne = {
   lightTopLine: true,
   lightText: true,
   lightTextDesc: true,
-  topLine: 'Candy Bot',
-  headline: 'On a mission to Prevent Suicide',
+  topLine: 'Our Goal',
+  headline: 'On a Mission to Prevent Suicide',
   description:
     'An AI chatbot that leverages evidence-based cognitive-behavioral techniques to make you feel heard,stay confident and quit the idea of suicide.',
   buttonLabel: 'Commands',

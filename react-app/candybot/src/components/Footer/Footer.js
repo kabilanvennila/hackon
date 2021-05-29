@@ -12,11 +12,11 @@ function Footer() {
     <FooterContainer>
       <SocialMedia>
         <SocialMediaWrap>
-          <SocialLogo to='/'>
+       {/*   <SocialLogo to='/'>
             {/* <SocialIcon /> */}
-            {/* Add The Logo PNG HERE! */}
+            {/* Add The Logo PNG HERE! 
             Candy
-          </SocialLogo>
+          </SocialLogo> */}
           <WebsiteRights>Candy © 2021</WebsiteRights>
         </SocialMediaWrap>
       </SocialMedia>

@@ -18,13 +18,13 @@ export const homeObjTwo = {
   lightText: true,
   lightTopLine: true,
   lightTextDesc: true,
-  topLine: '100% Secure',
-  headline: 'Stay protected 24/7 anywhere anytime',
+  topLine: 'Commands For Testing',
+  headline: 'Sample List of Commands',
   description:
-    'We have you covered no matter where you are located. Over 140 locations worldwide to ensure you have access anytime',
+    'Here are some of the commands that you can test with the CandyBot. For more commands, Experiment with the Bot.',
   buttonLabel: 'Learn More',
   imgStart: '',
-  img: require('../../images/svg-1.svg'),
+  img: require('../../images/command.jpeg'),
   alt: 'Vault'
 };
 
