@@ -42,14 +42,12 @@
   
   <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Instructions***
 <p align="left">
-  <p>
   1. Clone the repository into your local system
   2. For running backend, `cd backend` and then run `pipenv shell`.
   3. For installing the packages do `pipenv install`. Then run `python main.py`
   4. For running the website `cd website` .
   5. Installation of node modules to be done by `yarn` or `npm install`
   6. Run the website by `yarn start` or `npm start`
-  </p>
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools We used***
 <p align="left">
