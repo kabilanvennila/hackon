@@ -17,6 +17,7 @@ function Graph() {
   return (
     <div className="Graph">
     {/* height="99%" width="99%"  */}
+      <h2 id="api">API Data Visualization</h2>
       <ResponsiveContainer width="100%" height="75%" aspect = {2.5}>
       <LineChart
          width={500}
@@ -32,10 +33,10 @@ function Graph() {
           <CartesianGrid strokeDasharray="3 3" horizontal="true" vertical=""/>
           <XAxis dataKey="name"/>
           <YAxis/>
-          <Tooltip/>
+          <Tooltip cursor= {{fill: 'transparent'}} />
           <Legend />
-          <Line datakey="active" type="monotone" dataKey="country" stroke="#0FFFFF" dot={false}/> 
-          <Line datakey="active" type="monotone" dataKey="countper100k" stroke="#808B96" dot = {false} />
+          <Line datakey="active" type="monotone" dataKey="country" stroke="orange" dot={false}/> 
+          <Line datakey="active" type="monotone" dataKey="countper100k" stroke="#665df5" dot = {false} />
         </LineChart>
       </ResponsiveContainer>
     </div>

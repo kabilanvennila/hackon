@@ -3,13 +3,13 @@ export const homeObjOne = {
   lightText: false,
   lightTopLine: false,
   lightTextDesc: false,
-  topLine: 'View Our Products',
-  headline: 'Shop through our catalog of products',
+  topLine: 'Our API',
+  headline: 'Rest API powered up and running',
   description:
-    'We provide worldwide shipping to all countries. If there are any issues, just issue a refund and we will process your request',
-  buttonLabel: 'Shop Now',
+    'Make Use of Our Suicide API for a good cause to save lives by making an innovative outcome out of it',
+  buttonLabel: 'Our API',
   imgStart: '',
-  img: require('../../images/svg-1.svg'),
+  img: require('../../images/4.svg'),
   alt: 'Credit Card'
 };
 

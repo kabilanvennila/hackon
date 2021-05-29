@@ -4,7 +4,6 @@ import {
   SocialMedia,
   SocialMediaWrap,
   SocialLogo,
-  SocialIcon,
   WebsiteRights,
 } from './Footer.elements';
 

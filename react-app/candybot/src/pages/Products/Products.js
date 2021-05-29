@@ -6,7 +6,6 @@ function Products() {
   return (
     <>
       <InfoSection {...homeObjOne} />
-      <InfoSection {...homeObjTwo} />
     </>
   );
 }

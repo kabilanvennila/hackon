@@ -4,13 +4,13 @@ export const homeObjOne = {
   lightTopLine: true,
   lightText: true,
   lightTextDesc: true,
-  topLine: 'Marketing Agency',
-  headline: 'Lead Generation Specialist for Online Businesses',
+  topLine: 'Candy Bot',
+  headline: 'On a mission to Prevent Suicide',
   description:
-    'We help business owners increase their revenue. Our team of unique specialist can help you achieve your business goals.',
-  buttonLabel: 'Get Started',
+    'An AI chatbot that leverages evidence-based cognitive-behavioral techniques to make you feel heard,stay confident and quit the idea of suicide.',
+  buttonLabel: 'Commands',
   imgStart: '',
-  img: require('../../images/profile.jpg'),
+  img: require('../../images/1.svg'),
   alt: 'Credit Card',
   start: ''
 };
@@ -21,13 +21,13 @@ export const homeObjTwo = {
   lightTopLine: true,
   lightText: true,
   lightTextDesc: true,
-  topLine: 'Instant Setup',
-  headline: 'Extremely quick onboarding process',
+  topLine: 'Instant Reply',
+  headline: 'Extremely Quick Audio Processing',
   description:
-    "Once you've joined, our team of specialist will reach out to you and get you set up in minutes.",
-  buttonLabel: 'Learn More',
+    "After you've begun there will be No Audio latency, you'll enjoy the seamless interaction and full involvement with our Candy bot.",
+  // buttonLabel: 'Learn More',
   imgStart: '',
-  img: require('../../images/svg-2.svg'),
+  img: require('../../images/2.svg'),
   alt: 'Vault',
   start: ''
 };
@@ -42,9 +42,9 @@ export const homeObjFour = {
   headline: 'All your data is stored on our secure server',
   description:
     'You will never have to worry about your information getting leaked. Our team of security experts will ensure your records are kept safe.',
-  buttonLabel: 'Sign Up Now',
+  // buttonLabel: 'Sign Up Now',
   imgStart: 'start',
-  img: require('../../images/svg-3.svg'),
+  img: require('../../images/sec.svg'),
   alt: 'Vault',
   start: 'true'
 };
