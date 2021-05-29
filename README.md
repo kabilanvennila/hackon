@@ -8,9 +8,9 @@
 
 <p align="center">
   <em>
-   A lot of people are commiting <b>Suicide</b> so we have made a voice bot to address this issue
-    We leverage the use of modern AI to make <b>Candy Bot</b> that interacts well with you
-    to understand your problem and speak some good words and<b>makes you smile</b>&nbsp;
+   A lot of people are commiting <b>Suicide</b> in the recent years. So, we have made a chat bot to address this issue.
+    We leverage the use of modern AI to make <b>Candy Bot</b> a chat bot that interacts well with you
+    to understand your problem and say some good words and<b>make you smile</b>&nbsp;
     interact with it to <b>Learn more</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">
   </em> 
   <br>
@@ -39,6 +39,17 @@
 <img src="mockups/hack1.png" >
 <img src="mockups/hack2.png">
 </div>
+  
+  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Instructions***
+<p align="left">
+  <p>
+  1. Clone the repository into your local system
+  2. For running backend, `cd backend` and then run `pipenv shell`.
+  3. For installing the packages do `pipenv install`. Then run `python main.py`
+  4. For running the website `cd website` .
+  5. Installation of node modules to be done by `yarn` or `npm install`
+  6. Run the website by `yarn start` or `npm start`
+  </p>
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools We used***
 <p align="left">
