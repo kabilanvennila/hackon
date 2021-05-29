@@ -45,8 +45,7 @@
 <p align="left">
   
   ✔ Clone the repository into your local system <br>
-  ✔ For running backend, `cd backend` and then run `pipenv shell`. <br>
-  ✔ For running the website `cd website` . <br>
+  ✔ For running the website `cd react-app` . <br>
   ✔ Installation of node modules to be done by `npm` or `yarn` <br>
   ✔ Run the website by `npm start` or `yarn start` <br>
   <br>
