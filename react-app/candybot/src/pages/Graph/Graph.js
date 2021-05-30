@@ -9,7 +9,7 @@ function Graph() {
     fetchData();
   }, [])
   const fetchData = () => {
-    fetch(`https://nenoc.pythonanywhere.com/api/Apis/`)
+    fetch(`https://candybotapi.pythonanywhere.com/api/Apis/`)
       .then(response => response.json())
       .then(json => setData(json))
   } 

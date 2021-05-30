@@ -10,14 +10,14 @@ import { useEffect , useRef } from 'react';
 import { Button } from './globalStyles';
 import './App.css';
 import alanBtn from '@alan-ai/alan-sdk-web';
-// import onUserEvent from '@alan-ai/alan-sdk-web';
 
 function App() {
 
   useEffect(() => {
     alanBtn({
-      key: '4a59123c3ca3b317b8ced81dcc5ff4452e956eca572e1d8b807a3e2338fdd0dc/stage',
-      // key: '4d292cf043b0a2ea4d0bf347580da6fd2e956eca572e1d8b807a3e2338fdd0dc/prod',
+      //Testing key 
+      // key: '4a59123c3ca3b317b8ced81dcc5ff4452e956eca572e1d8b807a3e2338fdd0dc/stage',
+      key: '4a59123c3ca3b317b8ced81dcc5ff4452e956eca572e1d8b807a3e2338fdd0dc/prod',
       onCommand: (commandData) => {
         if (commandData.command === 'go:back') {
           //call client code that will react to the received command
@@ -41,7 +41,7 @@ function App() {
         <Graph />
         <div className="button-container">
           <Button className="main-btn">
-                <a href="https://nenoc.pythonanywhere.com/api/Apis/" target="_blank">
+                <a href="https://candybotapi.pythonanywhere.com/api/Apis/" target="_blank">
             Our API
           </a>
           </Button>
