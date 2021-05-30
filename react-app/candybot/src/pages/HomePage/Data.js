@@ -7,7 +7,7 @@ export const homeObjOne = {
   topLine: 'Our Goal',
   headline: 'On a Mission to Prevent Suicide',
   description:
-    'An AI chatbot that leverages evidence-based cognitive-behavioral techniques to make you feel heard,stay confident and quit the idea of suicide.',
+    'An AI Voice Enabled chatbot that leverages evidence-based cognitive-behavioral techniques to make you feel heard,stay confident and quit the idea of suicide.',
   buttonLabel: 'Commands',
   imgStart: '',
   img: require('../../images/1.svg'),
