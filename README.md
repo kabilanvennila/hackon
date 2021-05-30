@@ -40,7 +40,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;*** Sample Designs***
 <div>
-<img src="mockups/hack1.png" >
+<img src="mockups/hack.png" >
  <hr>
 <img src="mockups/hack2.png">
 </div>
