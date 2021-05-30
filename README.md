@@ -20,6 +20,10 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-chowrasia&label=Profile%20views&color=0e75b6&style=flat" alt="akash-chowrasia" /> </p> -->
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
+[DEMO] https://www.candybot.co/ <br>
+[VIDEO DEMO] https://youtu.be/Byn2wzt79qA <br>
+[API] https://candybotapi.pythonanywhere.com/api/Apis/  
+  
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;*** Features***
 
 ✔ Modern **User Interface** with a **Sleek Design**<br>
@@ -37,6 +41,7 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;*** Sample Designs***
 <div>
 <img src="mockups/hack1.png" >
+ <hr>
 <img src="mockups/hack2.png">
 </div>
   
