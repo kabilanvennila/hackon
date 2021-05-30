@@ -10,7 +10,7 @@
   <em>
    A lot of people are commiting <b>Suicide</b> in the recent years. So, we have made a chat bot to address this issue.
     We leverage the use of modern AI to make <b>Candy Bot</b> a chat bot that interacts well with you
-    to understand your problem and say some good words and<b>make you smile</b>&nbsp;
+    to understand your problem and say some good words and<b> make you smile</b>&nbsp;
     interact with it to <b>Learn more</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">
   </em> 
   <br>
